@@ -1,0 +1,2 @@
+管理员:admin/admin
+用户:user/000000
